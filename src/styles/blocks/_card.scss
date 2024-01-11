@@ -18,3 +18,8 @@
     font-size: clamp(14px, 0.1rem + 2vw, 18px);
     margin-bottom: 20px;
 }
+
+.card-name {
+    color: $name-color;
+    font-size: 2rem;
+}
