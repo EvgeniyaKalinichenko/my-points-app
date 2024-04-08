@@ -6,7 +6,7 @@
  ---
 
 <br>
-<div align="center"><img src="./src/images/readme-title.png" width="70%"> </div> <br>
+<div align="center"><img src="//https://svetk0.github.io/my-points-app//src/images/readme-title.png" width="70%"> </div> <br>
 
 ## 🤓 Как запустить проект
 
